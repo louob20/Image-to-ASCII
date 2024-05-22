@@ -1,0 +1,7 @@
+C:\Users\louie\source\repos\C#\Image to ASCII\Image to ASCII\Image to ASCII\bin\Debug\Image to ASCII.exe.config
+C:\Users\louie\source\repos\C#\Image to ASCII\Image to ASCII\Image to ASCII\bin\Debug\Image to ASCII.exe
+C:\Users\louie\source\repos\C#\Image to ASCII\Image to ASCII\Image to ASCII\bin\Debug\Image to ASCII.pdb
+C:\Users\louie\source\repos\C#\Image to ASCII\Image to ASCII\Image to ASCII\obj\Debug\Image to ASCII.csproj.AssemblyReference.cache
+C:\Users\louie\source\repos\C#\Image to ASCII\Image to ASCII\Image to ASCII\obj\Debug\Image to ASCII.csproj.CoreCompileInputs.cache
+C:\Users\louie\source\repos\C#\Image to ASCII\Image to ASCII\Image to ASCII\obj\Debug\Image to ASCII.exe
+C:\Users\louie\source\repos\C#\Image to ASCII\Image to ASCII\Image to ASCII\obj\Debug\Image to ASCII.pdb
